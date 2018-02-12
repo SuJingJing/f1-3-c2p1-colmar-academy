@@ -1,0 +1,84 @@
+@meta charset="UTF-8"
+    
+body {
+    padding: 0;
+    margin: 0;
+}
+
+
+
+/* header & menu */
+
+header {
+    width: 100%;
+}
+
+#head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 4rem;
+    z-index: 1;
+    background-color: chocolate;
+    color: white;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    padding-left: 2rem;
+}
+
+.menu span {
+    padding-right: 2rem;
+}
+
+
+/* Section : main story */
+.main-banner {
+    padding: 1.5rem;
+    margin: 0;
+    width: 100%;
+}
+
+.banner-container {
+    display: flex;
+}
+
+.banner-left img{
+    width: 80%;
+    padding: 0;
+    margin: 0;
+}
+
+.banner-right {
+    
+}
+
+
+/* section : articles */
+.articles {
+    display: flex;
+}
+
+.banner-right {
+    display: flex;
+}
+
+
+/* Section : coourses */
+.courses {
+    width: 100%;
+}
+
+.cards-container {
+    display: flex;
+    flex-flow: 
+}
+
+
+/* Section : articles-2*/
+.articles-container {
+    display: flex;
+}
+
